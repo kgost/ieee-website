@@ -17,4 +17,4 @@ tech email: JKExample@mtu.edu
 
 
 Once you have done all this you will be given 24 hour swipe access to the lab
-For more information, contact jon at [jmfritsc@mtu.edu](mailto:ieee@mtu.edu)
+For more information, contact Victor at [vvbuzgan@mtu.edu](mailto:ieee@mtu.edu)
