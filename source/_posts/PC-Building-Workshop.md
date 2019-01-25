@@ -3,6 +3,6 @@ title: PC Building Workshop
 date: 2018-11-01 14:53:48
 tag: event
 ---
-## December 1st in EERC 809
-For students wanting to learn to put together a computer, the IEEE is hosting a small event where students can learn how a computer is put together hands on.
+## March 21st 2009 in EERC 214
+An Electrical and Computer Engineering Project Competition hosted by the IEEE!
 {% asset_img PCMasterRace.png PCMasterRace %}
