@@ -79,5 +79,5 @@ theme: materialize
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: still-waters-37811
-repo: git@github.com:kgost/ieee-website.git
+repo: https://git.heroku.com/still-waters-37811.git
 type: heroku
