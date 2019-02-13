@@ -79,4 +79,4 @@ theme: materialize
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: still-waters-37811
-  type: heroku
+type: heroku
